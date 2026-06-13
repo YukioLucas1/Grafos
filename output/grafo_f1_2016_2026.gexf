@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-13">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Nico Rosberg" label="Nico Rosberg" />
+      <node id="Lewis Hamilton" label="Lewis Hamilton" />
+      <node id="Sebastian Vettel" label="Sebastian Vettel" />
+      <node id="Daniel Ricciardo" label="Daniel Ricciardo" />
+      <node id="Felipe Massa" label="Felipe Massa" />
+      <node id="Romain Grosjean" label="Romain Grosjean" />
+      <node id="Nico Hülkenberg" label="Nico Hülkenberg" />
+      <node id="Valtteri Bottas" label="Valtteri Bottas" />
+      <node id="Carlos Sainz" label="Carlos Sainz" />
+      <node id="Max Verstappen" label="Max Verstappen" />
+      <node id="Jolyon Palmer" label="Jolyon Palmer" />
+      <node id="Kevin Magnussen" label="Kevin Magnussen" />
+      <node id="Sergio Pérez" label="Sergio Pérez" />
+      <node id="Jenson Button" label="Jenson Button" />
+      <node id="Felipe Nasr" label="Felipe Nasr" />
+      <node id="Pascal Wehrlein" label="Pascal Wehrlein" />
+      <node id="Marcus Ericsson" label="Marcus Ericsson" />
+      <node id="Kimi Räikkönen" label="Kimi Räikkönen" />
+      <node id="Rio Haryanto" label="Rio Haryanto" />
+      <node id="Esteban Gutiérrez" label="Esteban Gutiérrez" />
+      <node id="Fernando Alonso" label="Fernando Alonso" />
+      <node id="Daniil Kvyat" label="Daniil Kvyat" />
+      <node id="Stoffel Vandoorne" label="Stoffel Vandoorne" />
+      <node id="Esteban Ocon" label="Esteban Ocon" />
+      <node id="Antonio Giovinazzi" label="Antonio Giovinazzi" />
+      <node id="Lance Stroll" label="Lance Stroll" />
+      <node id="Paul di Resta" label="Paul di Resta" />
+      <node id="Pierre Gasly" label="Pierre Gasly" />
+      <node id="Brendon Hartley" label="Brendon Hartley" />
+      <node id="Charles Leclerc" label="Charles Leclerc" />
+      <node id="Sergey Sirotkin" label="Sergey Sirotkin" />
+      <node id="Lando Norris" label="Lando Norris" />
+      <node id="Alexander Albon" label="Alexander Albon" />
+      <node id="George Russell" label="George Russell" />
+      <node id="Robert Kubica" label="Robert Kubica" />
+      <node id="Nicholas Latifi" label="Nicholas Latifi" />
+      <node id="Jack Aitken" label="Jack Aitken" />
+      <node id="Pietro Fittipaldi" label="Pietro Fittipaldi" />
+      <node id="Yuki Tsunoda" label="Yuki Tsunoda" />
+      <node id="Mick Schumacher" label="Mick Schumacher" />
+      <node id="Nikita Mazepin" label="Nikita Mazepin" />
+      <node id="Guanyu Zhou" label="Guanyu Zhou" />
+      <node id="Nyck de Vries" label="Nyck de Vries" />
+      <node id="Logan Sargeant" label="Logan Sargeant" />
+      <node id="Oscar Piastri" label="Oscar Piastri" />
+      <node id="Liam Lawson" label="Liam Lawson" />
+      <node id="Oliver Bearman" label="Oliver Bearman" />
+      <node id="Franco Colapinto" label="Franco Colapinto" />
+      <node id="Jack Doohan" label="Jack Doohan" />
+      <node id="Andrea Kimi Antonelli" label="Andrea Kimi Antonelli" />
+      <node id="Gabriel Bortoleto" label="Gabriel Bortoleto" />
+      <node id="Isack Hadjar" label="Isack Hadjar" />
+      <node id="Arvid Lindblad" label="Arvid Lindblad" />
+    </nodes>
+    <edges>
+      <edge source="Nico Rosberg" target="Lewis Hamilton" id="0" />
+      <edge source="Lewis Hamilton" target="Valtteri Bottas" id="1" />
+      <edge source="Lewis Hamilton" target="George Russell" id="2" />
+      <edge source="Lewis Hamilton" target="Charles Leclerc" id="3" />
+      <edge source="Sebastian Vettel" target="Kimi Räikkönen" id="4" />
+      <edge source="Sebastian Vettel" target="Charles Leclerc" id="5" />
+      <edge source="Sebastian Vettel" target="Lance Stroll" id="6" />
+      <edge source="Daniel Ricciardo" target="Daniil Kvyat" id="7" />
+      <edge source="Daniel Ricciardo" target="Max Verstappen" id="8" />
+      <edge source="Daniel Ricciardo" target="Nico Hülkenberg" id="9" />
+      <edge source="Daniel Ricciardo" target="Esteban Ocon" id="10" />
+      <edge source="Daniel Ricciardo" target="Lando Norris" id="11" />
+      <edge source="Daniel Ricciardo" target="Yuki Tsunoda" id="12" />
+      <edge source="Felipe Massa" target="Valtteri Bottas" id="13" />
+      <edge source="Felipe Massa" target="Lance Stroll" id="14" />
+      <edge source="Romain Grosjean" target="Esteban Gutiérrez" id="15" />
+      <edge source="Romain Grosjean" target="Kevin Magnussen" id="16" />
+      <edge source="Nico Hülkenberg" target="Sergio Pérez" id="17" />
+      <edge source="Nico Hülkenberg" target="Jolyon Palmer" id="18" />
+      <edge source="Nico Hülkenberg" target="Carlos Sainz" id="19" />
+      <edge source="Nico Hülkenberg" target="Lance Stroll" id="20" />
+      <edge source="Nico Hülkenberg" target="Kevin Magnussen" id="21" />
+      <edge source="Nico Hülkenberg" target="Oliver Bearman" id="22" />
+      <edge source="Nico Hülkenberg" target="Gabriel Bortoleto" id="23" />
+      <edge source="Valtteri Bottas" target="George Russell" id="24" />
+      <edge source="Valtteri Bottas" target="Guanyu Zhou" id="25" />
+      <edge source="Valtteri Bottas" target="Sergio Pérez" id="26" />
+      <edge source="Carlos Sainz" target="Max Verstappen" id="27" />
+      <edge source="Carlos Sainz" target="Daniil Kvyat" id="28" />
+      <edge source="Carlos Sainz" target="Pierre Gasly" id="29" />
+      <edge source="Carlos Sainz" target="Lando Norris" id="30" />
+      <edge source="Carlos Sainz" target="Charles Leclerc" id="31" />
+      <edge source="Carlos Sainz" target="Alexander Albon" id="32" />
+      <edge source="Max Verstappen" target="Pierre Gasly" id="33" />
+      <edge source="Max Verstappen" target="Alexander Albon" id="34" />
+      <edge source="Max Verstappen" target="Sergio Pérez" id="35" />
+      <edge source="Max Verstappen" target="Liam Lawson" id="36" />
+      <edge source="Max Verstappen" target="Yuki Tsunoda" id="37" />
+      <edge source="Max Verstappen" target="Isack Hadjar" id="38" />
+      <edge source="Jolyon Palmer" target="Kevin Magnussen" id="39" />
+      <edge source="Kevin Magnussen" target="Pietro Fittipaldi" id="40" />
+      <edge source="Kevin Magnussen" target="Mick Schumacher" id="41" />
+      <edge source="Sergio Pérez" target="Esteban Ocon" id="42" />
+      <edge source="Sergio Pérez" target="Lance Stroll" id="43" />
+      <edge source="Jenson Button" target="Fernando Alonso" id="44" />
+      <edge source="Jenson Button" target="Stoffel Vandoorne" id="45" />
+      <edge source="Felipe Nasr" target="Marcus Ericsson" id="46" />
+      <edge source="Pascal Wehrlein" target="Rio Haryanto" id="47" />
+      <edge source="Pascal Wehrlein" target="Esteban Ocon" id="48" />
+      <edge source="Pascal Wehrlein" target="Marcus Ericsson" id="49" />
+      <edge source="Marcus Ericsson" target="Antonio Giovinazzi" id="50" />
+      <edge source="Marcus Ericsson" target="Charles Leclerc" id="51" />
+      <edge source="Kimi Räikkönen" target="Antonio Giovinazzi" id="52" />
+      <edge source="Fernando Alonso" target="Stoffel Vandoorne" id="53" />
+      <edge source="Fernando Alonso" target="Esteban Ocon" id="54" />
+      <edge source="Fernando Alonso" target="Lance Stroll" id="55" />
+      <edge source="Daniil Kvyat" target="Brendon Hartley" id="56" />
+      <edge source="Daniil Kvyat" target="Alexander Albon" id="57" />
+      <edge source="Daniil Kvyat" target="Pierre Gasly" id="58" />
+      <edge source="Esteban Ocon" target="Pierre Gasly" id="59" />
+      <edge source="Esteban Ocon" target="Oliver Bearman" id="60" />
+      <edge source="Antonio Giovinazzi" target="Robert Kubica" id="61" />
+      <edge source="Lance Stroll" target="Paul di Resta" id="62" />
+      <edge source="Lance Stroll" target="Sergey Sirotkin" id="63" />
+      <edge source="Pierre Gasly" target="Brendon Hartley" id="64" />
+      <edge source="Pierre Gasly" target="Yuki Tsunoda" id="65" />
+      <edge source="Pierre Gasly" target="Jack Doohan" id="66" />
+      <edge source="Pierre Gasly" target="Franco Colapinto" id="67" />
+      <edge source="Charles Leclerc" target="Oliver Bearman" id="68" />
+      <edge source="Lando Norris" target="Oscar Piastri" id="69" />
+      <edge source="Alexander Albon" target="Nicholas Latifi" id="70" />
+      <edge source="Alexander Albon" target="Logan Sargeant" id="71" />
+      <edge source="Alexander Albon" target="Franco Colapinto" id="72" />
+      <edge source="George Russell" target="Robert Kubica" id="73" />
+      <edge source="George Russell" target="Nicholas Latifi" id="74" />
+      <edge source="George Russell" target="Andrea Kimi Antonelli" id="75" />
+      <edge source="Nicholas Latifi" target="Jack Aitken" id="76" />
+      <edge source="Nicholas Latifi" target="Nyck de Vries" id="77" />
+      <edge source="Yuki Tsunoda" target="Nyck de Vries" id="78" />
+      <edge source="Yuki Tsunoda" target="Liam Lawson" id="79" />
+      <edge source="Yuki Tsunoda" target="Isack Hadjar" id="80" />
+      <edge source="Mick Schumacher" target="Nikita Mazepin" id="81" />
+      <edge source="Liam Lawson" target="Isack Hadjar" id="82" />
+      <edge source="Liam Lawson" target="Arvid Lindblad" id="83" />
+    </edges>
+  </graph>
+</gexf>
